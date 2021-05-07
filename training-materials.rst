@@ -98,6 +98,13 @@ Text here
 
 .. note::
    Note text
+   
+.. code-block:: javascript
+   :linenos:
+   
+   // comment
+   print(image);
+   Map.addLayer(image);
 
 4. Frequently Asked Questions (FAQs)
 ------------------------------------
@@ -118,9 +125,7 @@ Kennedy, R.E., Ohmann, J., Gregory, M., Roberts, H., Yang, Z., Bell, D.M., Kane,
 
 This work is licensed under a `Creative Commons Attribution 3.0 IGO <https://creativecommons.org/licenses/by/3.0/igo/>`_
 
-Copyright 2021, Spatial Informatics Group
-
-(Last name), (First letter of first name). (Year). Title of training. © Spatial Informatics Group. License: `Creative Commons Attribution license (CC BY 3.0 IGO) <https://creativecommons.org/licenses/by/3.0/igo/>`_ 
+(Last name), (First letter of first name). (Year). Title of training. Spatial Informatics Group.
 
 .. figure:: images/sig.png
    :width: 60
